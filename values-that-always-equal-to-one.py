@@ -35,6 +35,8 @@ while True:
     time.sleep(3)
     print("At last. You get zxz + xxz. This gives a value close to one.")
     time.sleep(2)
+    print("And that is:")
+    time.sleep(1)
     print(result)
 
     break 
